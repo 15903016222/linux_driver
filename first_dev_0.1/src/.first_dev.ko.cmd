@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/first_dev_0.1/src/first_dev.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/first_dev_0.1/src/first_dev.ko /home/daysmark/nfsdir/first_dev_0.1/src/first_dev.o /home/daysmark/nfsdir/first_dev_0.1/src/first_dev.mod.o
