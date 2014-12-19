@@ -1,1 +1,1 @@
-Hello Lniux_drive_TQ2440
+本人在TQ2440开发板上练习的一次驱动和测试程序
