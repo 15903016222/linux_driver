@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/first_drv/Debug/first_drv.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/first_drv/Debug/first_drv.ko /home/daysmark/nfsdir/first_drv/Debug/first_drv.o /home/daysmark/nfsdir/first_drv/Debug/first_drv.mod.o
