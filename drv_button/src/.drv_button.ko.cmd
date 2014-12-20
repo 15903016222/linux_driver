@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/drv_button/src/drv_button.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/drv_button/src/drv_button.ko /home/daysmark/nfsdir/drv_button/src/drv_button.o /home/daysmark/nfsdir/drv_button/src/drv_button.mod.o
