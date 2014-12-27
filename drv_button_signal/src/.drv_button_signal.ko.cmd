@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/drv_button_signal/src/drv_button_signal.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/drv_button_signal/src/drv_button_signal.ko /home/daysmark/nfsdir/drv_button_signal/src/drv_button_signal.o /home/daysmark/nfsdir/drv_button_signal/src/drv_button_signal.mod.o
