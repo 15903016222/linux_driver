@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/drv_button_timer/src/drv_button_timer.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/drv_button_timer/src/drv_button_timer.ko /home/daysmark/nfsdir/drv_button_timer/src/drv_button_timer.o /home/daysmark/nfsdir/drv_button_timer/src/drv_button_timer.mod.o
