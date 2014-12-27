@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/bus_dev_drv_led/src/led_drv.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/bus_dev_drv_led/src/led_drv.ko /home/daysmark/nfsdir/bus_dev_drv_led/src/led_drv.o /home/daysmark/nfsdir/bus_dev_drv_led/src/led_drv.mod.o
