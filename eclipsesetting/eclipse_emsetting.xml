@@ -3,10 +3,13 @@
 <section name="org.eclipse.cdt.internal.ui.wizards.settingswizards.IncludePaths">
 <language name="C Source File">
 
+
+
 <includepath>/opt/EmbedSky/linux-2.6.30.4/include</includepath>
 <includepath>/opt/EmbedSky/linux-2.6.30.4/arch/arm/include</includepath>
 <includepath>/opt/EmbedSky/linux-2.6.30.4/arch/arm/plat-s3c24xx/include</includepath>
 <includepath>/opt/EmbedSky/linux-2.6.30.4/arch/arm/mach-s3c2410/include</includepath>
+<includepath>/opt/EmbedSky/linux-2.6.30.4/arch/arm/plat-s3c/include</includepath>
 
 </language>
 <language name="Object File">
