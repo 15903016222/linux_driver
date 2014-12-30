@@ -172,6 +172,7 @@ static int button_dev_init(void)//Èë¿Úº¯Êý
 }
 static void button_dev_exit(void)
 {
+	del_timer(&button_timer);
 	unregister_chrdev(major,"button_drv");
 	device_unregister(buttondrv_class_dev);
 	class_destroy(buttondrv_class);
