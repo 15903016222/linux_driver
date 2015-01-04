@@ -1,0 +1,1 @@
+cmd_/home/daysmark/nfsdir/drv_Nandflsh/src/drv_nandflash.ko := arm-linux-ld -EL -r   --build-id -o /home/daysmark/nfsdir/drv_Nandflsh/src/drv_nandflash.ko /home/daysmark/nfsdir/drv_Nandflsh/src/drv_nandflash.o /home/daysmark/nfsdir/drv_Nandflsh/src/drv_nandflash.mod.o
